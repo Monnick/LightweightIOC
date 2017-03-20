@@ -1,5 +1,5 @@
 # LightweightIOC
-This is a very leightweight IOC implementation.
+This is a very lightweight IOC implementation.
 ## Configuration via appsettings.json
 The configuration can be read as json file:   
 ```json
