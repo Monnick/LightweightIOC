@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>Monnick</Authors>
+    <Company />
+    <Description>A very simple lightweight IOC implementation.</Description>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
